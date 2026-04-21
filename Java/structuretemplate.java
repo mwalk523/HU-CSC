@@ -57,7 +57,7 @@ Math.abs //absolute value
 
       /* 
       OOP Order
-      Take care of things in parentheses first, right to left
+      Take care of things in parentheses first, right to left (or left to right)
       Negatives first - Right to left 
        * , /, Math.pow, Math.sqrt and % - Left to right 
        + and -, Left  to right
@@ -97,7 +97,7 @@ In most cases the boolean expression uses expressions like:
     <= less than or equal to 
     != not equal to
     && range (Example: (average >= 80 && average <= 89 )); also allows for multiple non-if statements in one if statement
-    || = and 
+    || = or 
     
 'if-else' statements- adds the ability to conditionally execute code when the if statement is false 
 

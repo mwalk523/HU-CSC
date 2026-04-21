@@ -11,7 +11,6 @@ public class PrismDriv
 {
    public static void main (String args[])
    {Scanner keyboard = new Scanner(System.in);
-   
       //no arg prism 
       Prism prism1 = new Prism();
       System.out.println("Prism 1: " + prism1.toString());
